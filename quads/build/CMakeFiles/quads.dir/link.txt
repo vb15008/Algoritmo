@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/quads.dir/quads.cpp.o  -o quads -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

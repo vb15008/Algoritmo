@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/cohe.dir/cohete.cpp.o  -o cohe -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

@@ -1,3 +1,0 @@
-/home/aldo/PrgramasOpenGL/linealoop/build/CMakeFiles/rebuild_cache.dir
-/home/aldo/PrgramasOpenGL/linealoop/build/CMakeFiles/edit_cache.dir
-/home/aldo/PrgramasOpenGL/linealoop/build/CMakeFiles/hiloop.dir

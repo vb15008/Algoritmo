@@ -1,3 +1,0 @@
-/home/aldo/PrgramasOpenGL/triangulo/build/CMakeFiles/rebuild_cache.dir
-/home/aldo/PrgramasOpenGL/triangulo/build/CMakeFiles/edit_cache.dir
-/home/aldo/PrgramasOpenGL/triangulo/build/CMakeFiles/linea.dir

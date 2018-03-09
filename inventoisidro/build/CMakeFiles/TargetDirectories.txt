@@ -1,3 +1,0 @@
-/home/aldo/PrgramasOpenGL/inventoisidro/build/CMakeFiles/rebuild_cache.dir
-/home/aldo/PrgramasOpenGL/inventoisidro/build/CMakeFiles/edit_cache.dir
-/home/aldo/PrgramasOpenGL/inventoisidro/build/CMakeFiles/invento.dir

@@ -1,3 +1,0 @@
-/home/aldo/PrgramasOpenGL/lineastrip/build/CMakeFiles/rebuild_cache.dir
-/home/aldo/PrgramasOpenGL/lineastrip/build/CMakeFiles/edit_cache.dir
-/home/aldo/PrgramasOpenGL/lineastrip/build/CMakeFiles/strip.dir

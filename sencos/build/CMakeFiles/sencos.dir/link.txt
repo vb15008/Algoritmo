@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/sencos.dir/sencos.cpp.o  -o sencos -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

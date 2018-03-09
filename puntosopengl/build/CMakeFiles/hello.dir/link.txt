@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/hello.dir/puntos.cpp.o  -o hello -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

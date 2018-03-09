@@ -1,3 +1,0 @@
-/home/aldo/PrgramasOpenGL/puntosopengl/build/CMakeFiles/rebuild_cache.dir
-/home/aldo/PrgramasOpenGL/puntosopengl/build/CMakeFiles/edit_cache.dir
-/home/aldo/PrgramasOpenGL/puntosopengl/build/CMakeFiles/hello.dir

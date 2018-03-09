@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aldo/PrgramasOpenGL/quads/quads.cpp
+GL/gl.h
+-
+GL/glut.h
+-
+math.h
+-
+

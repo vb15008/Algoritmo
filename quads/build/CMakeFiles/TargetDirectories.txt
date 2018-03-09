@@ -1,0 +1,3 @@
+/home/aldo/PrgramasOpenGL/quads/build/CMakeFiles/rebuild_cache.dir
+/home/aldo/PrgramasOpenGL/quads/build/CMakeFiles/edit_cache.dir
+/home/aldo/PrgramasOpenGL/quads/build/CMakeFiles/quads.dir

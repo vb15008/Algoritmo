@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/quadss.dir/quadsstrip.cpp.o  -o quadss -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

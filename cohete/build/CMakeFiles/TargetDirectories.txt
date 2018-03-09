@@ -1,0 +1,3 @@
+/home/aldo/PrgramasOpenGL/cohete/build/CMakeFiles/rebuild_cache.dir
+/home/aldo/PrgramasOpenGL/cohete/build/CMakeFiles/edit_cache.dir
+/home/aldo/PrgramasOpenGL/cohete/build/CMakeFiles/cohe.dir

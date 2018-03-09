@@ -1,0 +1,3 @@
+/home/aldo/PrgramasOpenGL/practicar/build/CMakeFiles/rebuild_cache.dir
+/home/aldo/PrgramasOpenGL/practicar/build/CMakeFiles/edit_cache.dir
+/home/aldo/PrgramasOpenGL/practicar/build/CMakeFiles/prac.dir

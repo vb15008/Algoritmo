@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/strip.dir/strip.cpp.o  -o strip -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

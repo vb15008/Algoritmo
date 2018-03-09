@@ -1,0 +1,3 @@
+/home/aldo/PrgramasOpenGL/quadsstrip/build/CMakeFiles/rebuild_cache.dir
+/home/aldo/PrgramasOpenGL/quadsstrip/build/CMakeFiles/edit_cache.dir
+/home/aldo/PrgramasOpenGL/quadsstrip/build/CMakeFiles/quadss.dir

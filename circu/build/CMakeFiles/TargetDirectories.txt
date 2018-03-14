@@ -1,3 +1,0 @@
-/home/aldo/PrgramasOpenGL/circu/build/CMakeFiles/rebuild_cache.dir
-/home/aldo/PrgramasOpenGL/circu/build/CMakeFiles/edit_cache.dir
-/home/aldo/PrgramasOpenGL/circu/build/CMakeFiles/circu.dir
